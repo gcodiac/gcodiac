@@ -1,7 +1,7 @@
 # 💫 About Me:
 🏆 Kubestronaut | CKA/CKAD/CKS/KCNA,KCSA Certified<br>☁️ AWS & Kubernetes Expert | 5+ years experience<br>💻 Full Stack: PHP/Symfony, Python, React
 
-- 🔭 I'm currently working on cross-account replication systems and  multi-region architectures
+- 🔭 I'm currently working on cross-account replication systems and multi-region architectures
 - 🌱 I'm currently learning Golang for system programming and high-performance backends
 - 👯 I'm looking to collaborate on cloud-native tools and open-source automation projects
 - 💬 Ask me about Kubernetes security, cluster architecture, or cloud-native best practices
